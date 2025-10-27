@@ -474,7 +474,6 @@ st.markdown("---")
 st.markdown("""
 <div style='text-align: center; color: #666;'>
     <p><strong>CardioScan LVNC Detection System</strong> | Version 1.0</p>
-    <p>Developed by: Department of Biomedical Engineering, University of Ghana</p>
     <p><small>⚠️ This tool is for research and educational purposes. Always consult with healthcare professionals for clinical decisions.</small></p>
 </div>
 """, unsafe_allow_html=True)
