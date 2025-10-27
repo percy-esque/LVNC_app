@@ -466,7 +466,6 @@ with tab4:
     st.info("""
     **Citation**: Luther, M.J., et al. (2024). Frugal AI-Powered Handheld Diagnostic Gun for 
     Predicting Left Ventricular Non-Compaction Cardiomyopathy Using Echocardiographic Features. 
-    Department of Biomedical Engineering, University of Ghana, Accra, Ghana.
     """)
 
 # Footer
